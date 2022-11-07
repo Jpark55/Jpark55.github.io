@@ -1,7 +1,5 @@
-# Jpark55.github.io
-
-Jung Park
+# Jpark55
 
 **'coding'**
 
-tracking my codes
+learning/tracking my codes
