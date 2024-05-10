@@ -6,6 +6,7 @@ I am an analyst with over 4 years of experience in providing solutions using dat
 - Microsoft Office suites: Word, Excel, PowerPoint, Outlook 
 
 ### Certificates
+![](image/data_analyst_professional_badge.png)
 - Data Analyst Professional 
 https://www.datacamp.com/certificate/DA0021347299859 
 
