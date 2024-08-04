@@ -10,15 +10,13 @@ I am an analyst with over 4 years of experience in providing solutions using dat
 <img align="left" src="image/data_analyst_professional_badge.png" alt="b1">
 
 <br/><br/>
-Data Analyst Professional \
-https://www.datacamp.com/certificate/DA0021347299859 
+[Data Analyst Professional](https://www.datacamp.com/certificate/DA0021347299859)
 
 
 <img align="left" src="image/data_engineer_associate_badge.png" alt="b2">
 
 <br/><br/>
-Data Engineer Associate \
-https://www.datacamp.com/certificate/DEA0014782084487 
+[Data Engineer Associate](https://www.datacamp.com/certificate/DEA0014782084487)
 
 
 ## Work Experience
