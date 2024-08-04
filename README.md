@@ -6,7 +6,7 @@ I am an analyst with over 4 years of experience in providing solutions using dat
 - Microsoft Office suites: Word, Excel, PowerPoint, Outlook 
 
 
-### Certificates
+### Certifications
 <img align="left" src="image/data_analyst_professional_badge.png" alt="b1">
 
 <br/><br/>
