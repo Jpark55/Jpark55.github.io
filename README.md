@@ -11,7 +11,7 @@ I am an analyst with over 4 years of experience in providing solutions using dat
 
 <br/><br/>
 [Data Analyst Professional](https://www.datacamp.com/certificate/DA0021347299859)
-
+<br/><br/>
 
 <img align="left" src="image/data_engineer_associate_badge.png" alt="b2">
 
