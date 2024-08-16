@@ -1,5 +1,11 @@
+Here are a few projects I've worked on
+- [Cleaning Data in Python](https://www.datacamp.com/datalab/w/416aeaf2-1333-4713-9b86-fa310cd5fc76/edit)
+- [Transforming Data in Python](https://www.datacamp.com/datalab/w/5f1f105f-5498-447c-8a0c-f0a036e36ac0/edit)
+
+Other projects can be viewed on my [DataCamp Profile](https://www.datacamp.com/portfolio/jmp5581)
+
 ### Skills 
-- SQL (T-sql), Javascript (Bytepro Macros), Python (Pandas, Matplotlib), Tableau 
+- SQL, Javascript (Bytepro Macros), Python, Tableau 
 - Microsoft Office suites: Word, Excel, PowerPoint, Outlook 
 
 
