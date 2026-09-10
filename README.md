@@ -14,7 +14,7 @@
 
 ### DataCamp Analytics & Engineering Portfolios
 * **Overview:** Completed hands-on data manipulation, cleaning, and transformation projects covering SQL, Python data structures, and relational database pipelines. 
-* *View full code repositories and interactive notebooks directly on my [DataCamp Profile](https://www.datacamp.com/portfolio/jmp5581)
+* *View full code repositories and interactive notebooks directly on my [DataCamp Profile](https://www.datacamp.com/portfolio/jmp5581).*
 
 ---
 
