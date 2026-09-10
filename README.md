@@ -1,13 +1,32 @@
-Here are a few projects I've worked on
-- [Cleaning Data in Python](https://www.datacamp.com/datalab/w/416aeaf2-1333-4713-9b86-fa310cd5fc76/edit)
-- [Transforming Data in Python](https://www.datacamp.com/datalab/w/5f1f105f-5498-447c-8a0c-f0a036e36ac0/edit)
+---
 
-Other projects can be viewed on my [DataCamp Profile](https://www.datacamp.com/portfolio/jmp5581)
+## Technical Projects & Automation
 
-### Skills 
-- SQL, Javascript (Bytepro Macros), Python, Tableau 
-- Microsoft Office suites: Word, Excel, PowerPoint, Outlook 
+### Desktop QA & Workflow Automation Script (Personal Productivity Tool)
+* **Stack:** Python (`PyAutoGUI`, `Tkinter`)
+* **Overview:** Developed a custom local desktop GUI application to streamline personal post-funding QA workflows and repetitive system navigation. Built a simple interface to select business channels and product types, allowing the script to automatically navigate designated BytePro fields, enter loan data points, trigger document templates, and execute standardized file printing/saving routines for individual daily processing.
 
+### Custom SQL Reporting & AUS Logic Queries
+* **Stack:** SQL (Relational Databases)
+* **Overview:** Authored custom SQL queries to extract production metrics, build broker watchlist trackers, and monitor pre-funding pipeline statuses. Developed complex SQL query logic used to define condition parameters for an in-house Automated Underwriting System (AUS).
+
+### BytePro LOS Customization & Macro Logic
+* **Stack:** JavaScript, BytePro Administrative Tools
+* **Overview:** Configured custom BytePro screens, data fields, and automated validation rules. Implemented JavaScript macros and pipeline views to enforce guidelines, flag incorrect data entries, and streamline cross-departmental file tracking.
+
+### DataCamp Analytics & Engineering Portfolios
+* **Overview:** Completed hands-on data manipulation, cleaning, and transformation projects covering SQL, Python data structures, and relational database pipelines. 
+* *View full code repositories and interactive notebooks directly on my [DataCamp Profile](https://www.datacamp.com/portfolio/jmp5581)
+
+---
+
+## Technical Skills
+
+* **Data Analytics & Scripting:** SQL (Queries, Joins, Aggregations, Data Extraction), Python (`PyAutoGUI`, `Tkinter`, pandas/data cleaning concepts), JavaScript (BytePro Macros), Tableau, PowerShell.
+* **Mortgage Systems & Tools:** BytePro (Custom Screens, Fields, Rules, Pipelines), LendingQB, MERS, Fannie Mae DU / Freddie Mac LP, AUS Systems.
+* **Office & Productivity Suites:** Microsoft Excel (Advanced formulas, models), Word, PowerPoint, Outlook, Google Sheets Automation.
+
+---
 
 ### Certifications
 <img align="left" src="image/data_analyst_professional_badge.png" alt="b1">
@@ -21,41 +40,40 @@ Other projects can be viewed on my [DataCamp Profile](https://www.datacamp.com/p
 <br/><br/>
 [Data Engineer Associate](https://www.datacamp.com/certificate/DEA0014782084487)
 
+---
 
 ## Work Experience
-### AmWest Funding
-QC/QA Supervisor/Analyst (2020-2022)
-* Process Improvements implemented
-  - Re-structured prefunding audit process for easier file tracking and reporting
-  - Designed custom BytePro screen to track Post-closing audit findings
-  - Updated QC procedure by updating BytePro fields and adding a pipeline to show file status to all departments 
-* Created SQL reports to analyze file data (monthly, weekly, daily, ad-hoc) 
-  - Broker watchlist tracker, prefunding department file tracker/production report
-  - Locate red flagged scenarios and forward file lists to specific departments for corrections/reporting 
-* Simple python program created using pyautogui and tkinter to aid in post funding work flow.
-  - Created simple UI to specify business channel and product types
-  - Locate and enter data on specific QA screen and field
-  - Print by selecting specific document template and saving as corresponding document name 
 
-Tech Strategy Specialist 
-* Coordinate tech support for new procedures/applications 
-  - Coordinate Fannie Mae DU implementation on company website 
-  - Coordinate auto data extract from appraisal xml via company FTP site 
-  - Created SQL queries for condition findings for inhouse custom Automated Underwriting System 
-* SQL queries/reports to support decisions making and production tracking 
-  - Custom reports used for department file/issue tracking 
-  - Ad hoc queries for custom scenarios and track files/brokers/issues 
-* BytePro 
-  - Create custom screens/sections/fields with logic to accommodate new workflow 
-  - Create system flags for incorrect data based on program guidelines 
-  - Troubleshoot existing inefficiencies/issue with ongoing changes to work process
+### **Emet Mortgage** — *Post Funder*
+*Nov 2024 – Present*
+* Conduct loan-level data quality audits on post-closing files against investor guidelines and regulatory standards.
+* Build custom spreadsheet reporting tools to reconcile LendingQB and investor data, flagging status discrepancies and expiring files.
+* Utilize local PowerShell scripts to streamline personal LendingQB data entry tasks and daily audit workflows.
 
-Senior Underwriter 
-* Guide new underwriters on best practices and help align with company culture
-* Underwrite DU/LP/FHA/manual loans 
+### **Technical Upskilling & Independent Study**
+*Aug 2022 – Nov 2024*
+* Completed comprehensive coursework and hands-on projects in relational database design, advanced SQL querying, data engineering concepts, and Python scripting.
+* Earned industry-recognized credentials: **Data Analyst Professional** and **Data Engineer Associate** (DataCamp).
+* Applied analytical tools to personal automation projects and data cleaning pipelines.
 
-### Various companies, 2004 – 2016 
-Underwriter 
-* Evaluate credit worthiness of borrowers based on credit report and financial documents and property valuation. 
-* Able to underwrite Fannie Mae and Freddie Mac convention loans. 
-* Training and evaluating new potential underwriting candidates 
+### **AmWest Funding Corp.** — *QC/QA Supervisor / Analyst*
+*Oct 2020 – Aug 2022*
+* Restructured pre-funding audit processes to improve file tracking, pipeline visibility, and reporting efficiency.
+* Authored SQL queries to generate weekly, monthly, and ad-hoc production reports, broker watchlists, and pre-funding file tracking dashboards.
+* Built a custom Python GUI application (`PyAutoGUI`/`Tkinter`) to automate repetitive QA screen navigation and document printing.
+* Designed custom BytePro screens, fields, and pipelines to track post-closing audit findings and share real-time file statuses across departments.
+
+### **AmWest Funding Corp.** — *Tech Strategy Specialist*
+*Sep 2018 – Oct 2020*
+* Coordinated Fannie Mae DU integration on the company website and supported automated appraisal XML data extraction via FTP.
+* Authored custom SQL queries for decisioning logic and condition findings within an in-house Automated Underwriting System (AUS).
+* Created custom BytePro screens, macro logic, and system flags to enforce program guidelines and eliminate process inefficiencies.
+
+### **AmWest Funding Corp.** — *Senior Underwriter*
+*Sep 2016 – Sep 2018*
+* Underwrote wholesale and correspondent loan files across Fannie Mae, Freddie Mac, FHA, and manual guidelines.
+* Guided new underwriters on best practices, company culture, and system troubleshooting.
+
+### **Prior Mortgage Experience** (2004 – 2016)
+* **Finance of America / PMAC Lending / PMC BanCorp** — *Underwriter & Funder*
+  * Evaluated borrower creditworthiness, property valuations, and financial documentation for Fannie Mae and Freddie Mac conventional loans.
