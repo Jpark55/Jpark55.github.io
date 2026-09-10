@@ -1,5 +1,3 @@
----
-
 ## Technical Projects & Automation
 
 ### Desktop QA & Workflow Automation Script (Personal Productivity Tool)
